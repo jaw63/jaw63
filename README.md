@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### About me
-* I'm currenlty a lead analyst for a consulting firm supporting a major infrastrucutre client.
+* I'm currenlty a lead analyst for a consulting firm supporting a major infrastructure client.
 * Cycling, diving, and data vis are my three main hobbies.
 * My background is in biomedical engineering.
 

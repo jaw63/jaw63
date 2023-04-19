@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **jaw63/jaw63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About me
+
+### My toolbox
+* Languages: Python, SQL (Postgres, MySQL, SparkSQL, etc)
+* Programs: Visual Studio, Postman, Dremio, Hue, Chartio, Redash

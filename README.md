@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ### About me
+* I'm currenlty a lead analyst for a consulting firm supporting a major infrastrucutre client.
+* Cycling, diving, and data vis are my three main hobbies.
+* My background is in biomedical engineering.
 
 ### My toolbox
 * Languages: Python, SQL (Postgres, MySQL, SparkSQL, etc)

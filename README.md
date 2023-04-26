@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ### About me
-* I'm currenlty a lead analyst for a consulting firm supporting a major infrastructure client.
-* Cycling, diving, and data vis are my three main hobbies.
-* My background is in biomedical engineering.
+- 👩‍💻 I'm currently a lead analyst supporting a major infrastructure client.
+- 🚲 Cycling, diving, and data vis are my three main hobbies.
+- 📚 My background is in biomedical engineering.
+- 💬 Ask me about how cars ruin cities.
 
 ### My toolbox
-* Languages: Python, SQL (Postgres, MySQL, SparkSQL, etc)
+* Languages: Python (pandas, pyarrow, seaborn, etc.), SQL (Postgres, MySQL, SparkSQL, etc)
 * Programs: Visual Studio, Postman, Dremio, Hue, Chartio, Redash

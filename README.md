@@ -4,7 +4,7 @@
 * 🧙 Biomedical engineer turned cybersecurity analyst turned data goblin, crafting insights from chaos.
 * 🌊 Ask me about nudibranchs. 
 * 🚲 Fueling a future with fewer cars and more sustainable mobility.
-* 📚 Always be learning, always be treaching.
+* 📚 Always be learning, always be teaching.
 
 ### My Toolbox
 * 🛠️ Speaking in: Python (pandas, pyarrow, seaborn, etc.), SQL (Postgres, MySQL, SparkSQL, etc)

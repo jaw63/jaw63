@@ -14,4 +14,4 @@
 * 🌟 Synthesizing technology, analytics, and passions to tell stories with data.
 
 ### Let's Party
-* 🌐 Exploring the digital and physical. Let's connect and collaborate!
+* 🌐 PM me if you like long CASE WHEN statements and testing in prod.

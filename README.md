@@ -1,7 +1,7 @@
 ## Hi there, I'm jessy! 👋
 
 ### About Me
-* 🧙 Biomedical engineer turned cybersecurity analyst turned data goblin, crafting insights from chaos.
+* 🧙 Biomedical engineer turned cybersecurity analyst turned data goblin.
 * 🌊 Ask me about nudibranchs. 
 * 🚲 Fueling a future with fewer cars and more sustainable mobility.
 * 📚 Always be learning, always be teaching.
